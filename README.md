@@ -16,7 +16,7 @@ Use this scrapper to get headlines of popular news websites in just one click wi
 or opening several tabs.The news headlines get displayed in the console
 
 
-Current Topics scarpped: front-page, entertainment-media, world
+Current Topics scrapped: front-page, entertainment-media, world
 
 
 Websites scrapped: bbc, foxnews, ndtv, buzzfeed
