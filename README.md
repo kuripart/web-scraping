@@ -5,3 +5,21 @@ Web scrapping projects
 This program creates a text file with the best movies in a given year as per Rotten Tomatoes. Enter year in the command line. 
 
 Utilized __BeautifulSoup.py, Requests.py__ for the scrapping
+
+Usage: Just type in the year in the command line
+
+## smartnews.py
+A programmer's way to access news.
+
+
+Use this scrapper to get headlines of popular news websites in just one click without the need of navigating through websites
+or opening several tabs.The news headlines get displayed in the console
+
+
+Current Topics scarpped: front-page, entertainment-media, world
+
+
+Websites scrapped: bbc, foxnews, ndtv, buzzfeed
+
+
+Usage: [topic] ___where topic = top, media, world___
