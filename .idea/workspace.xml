@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd48286a-c7ed-46a1-bb00-7725f1c0e2bb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/scrapper.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wildlife.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wildlife_ans_1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wildlife_q_1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

@@ -23,3 +23,7 @@ Websites scraped: bbc, foxnews, ndtv, buzzfeed
 
 
 Usage: [topic] ___where topic = top, media, world___
+
+## scrapper.py
+
+Common module to run web scrapping on different sites
