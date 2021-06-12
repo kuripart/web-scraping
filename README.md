@@ -1,4 +1,4 @@
-# web_scraping_py
+# web_scraping
 Web scrapping projects
 
 ## bestmovies.py
